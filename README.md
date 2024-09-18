@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     </div>
 </div>
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😄 Contact me </h2> 
     <br> 
 <div align= "center"> 
     <a href=mailto:lsiwon922@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lsiwon922@gmail.com"> </a>
@@ -48,6 +48,13 @@ Here are some ideas to get you started:
 </div>  
 <br> 
 </div>
+
+<div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚡️ LeetCode Stats </h2> 
+    <div align= "center"> 
+    <img src="https://leetcode.card.workers.dev/lsiwon922?theme=default&font=baloo&extension=activity" />     
+</div>
+    
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <div align= "center"> 
