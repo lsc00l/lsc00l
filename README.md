@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align= "center">
+<!-- <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:69c9c4,100:4a5fb5&height=180&text=Hello%20I'm%20Siwon&animation=&fontColor=ffffff&fontSize=40" />
-</div>
+</div> -->
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
     <br> 
@@ -62,4 +62,3 @@ Here are some ideas to get you started:
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsc00l&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
     </div> 
 </div>
-    
