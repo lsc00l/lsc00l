@@ -45,6 +45,9 @@ Here are some ideas to get you started:
     <a href=https://www.notion.so/Lee-Siwon-a804d9ea4b764dad829971cd7def2bbe?pvs=4> 
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Lee-Siwon-a804d9ea4b764dad829971cd7def2bbe?pvs=4"> 
     </a>
+    <a href=https://velog.io/@co_ol/posts> 
+        <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Lee-Siwon-a804d9ea4b764dad829971cd7def2bbe?pvs=4"/> 
+    </a>
 </div>  
 <br> 
 </div>
@@ -55,10 +58,16 @@ Here are some ideas to get you started:
     <img src="https://leetcode.card.workers.dev/lsiwon922?theme=default&font=baloo&extension=activity" />     
 </div>
     
-<div align= "center"> 
+<div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <div align= "center"> 
+    <div align="center">
+        <a href="https://hits.seeyoufarm.com">
+            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flsc00l&count_bg=%23A2C08B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+        </a>
+    </div>
+    <div align="center"> 
         <img src="https://github-readme-stats.vercel.app/api?username=lsc00l&custom_title=lsc00l'sGithubStat&bg_color=180,000000,&title_color=000000&text_color=000000" /> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsc00l&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
-    </div> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsc00l&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>
+    </div>
+    
 </div>
