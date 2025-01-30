@@ -42,9 +42,6 @@ Here are some ideas to get you started:
     <br> 
 <div align= "center"> 
     <a href=mailto:lsiwon922@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lsiwon922@gmail.com"> </a>
-    <a href=https://www.notion.so/Lee-Siwon-a804d9ea4b764dad829971cd7def2bbe?pvs=4> 
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Lee-Siwon-a804d9ea4b764dad829971cd7def2bbe?pvs=4"> 
-    </a>
     <a href=https://velog.io/@co_ol/posts> 
         <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Lee-Siwon-a804d9ea4b764dad829971cd7def2bbe?pvs=4"/> 
     </a>
@@ -55,7 +52,7 @@ Here are some ideas to get you started:
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚡️ LeetCode Stats </h2> 
     <div align= "center"> 
-    <img src="https://leetcode.card.workers.dev/lsiwon922?theme=default&font=baloo&extension=activity" />     
+    <img src="https://leetcard.jacoblin.cool/lsiwon922?theme=light&font=Noto%20Sans%20Elymaic&extension=activity" />
 </div>
     
 <div align="center"> 
